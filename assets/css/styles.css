@@ -11,3 +11,22 @@ color: black !important;
   height: 70vh;
   z-index: 1;
 }
+
+
+  .habilidad-item {
+    display: none;
+  }
+
+  .habilidad-activa {
+    display: block;
+  }
+
+  .habilidad {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .habilidad img {
+    width: 100px;
+    height: 100px;
+  }
